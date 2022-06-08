@@ -185,6 +185,7 @@ PRODUCT_PACKAGE_OVERLAYS += \
     vendor/genesis/overlay/common
 
 PRODUCT_PACKAGES += \
+    CustomFontPixelLauncherOverlay \
     DocumentsUIOverlay \
     NetworkStackOverlay
 
